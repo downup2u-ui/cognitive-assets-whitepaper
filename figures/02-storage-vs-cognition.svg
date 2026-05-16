@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#ffffff"/>
+  <text x="600" y="70" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#222222">Storage Is Not Cognition</text>
+  <rect x="115" y="135" width="390" height="385" rx="12" fill="#F5F5F5" stroke="#B8B8B8"/>
+  <rect x="695" y="135" width="390" height="385" rx="12" fill="#EAF2FA" stroke="#B8B8B8"/>
+  <text x="310" y="190" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#222222">Storage</text>
+  <text x="890" y="190" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#222222">Cognition</text>
+  <text x="310" y="250" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#333333">files</text>
+  <text x="310" y="300" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#333333">records</text>
+  <text x="310" y="350" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#333333">transcripts</text>
+  <text x="310" y="400" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#333333">outputs</text>
+  <text x="310" y="450" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#333333">code</text>
+  <text x="890" y="250" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#333333">judgment chains</text>
+  <text x="890" y="300" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#333333">causal reasoning</text>
+  <text x="890" y="350" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#333333">risk boundaries</text>
+  <text x="890" y="400" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#333333">abandoned paths</text>
+  <text x="890" y="450" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#333333">evolving context</text>
+  <text x="600" y="345" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" fill="#2F5D8C">≠</text>
+  <text x="600" y="620" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#222222">Storage preserves artifacts. Cognitive assets preserve returnable reasoning.</text>
+</svg>

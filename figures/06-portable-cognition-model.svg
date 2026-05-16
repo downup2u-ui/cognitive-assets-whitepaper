@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#ffffff"/>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#777777"/></marker></defs>
+  <text x="600" y="65" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#222222">Portable Cognition Model</text>
+  <rect x="410" y="200" width="380" height="270" rx="12" fill="#EAF2FA" stroke="#2F5D8C" stroke-width="2"/>
+  <text x="600" y="245" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#222222">Portable Cognitive</text>
+  <text x="600" y="278" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#222222">Context Package</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#333333">
+    <text x="465" y="325">project summary</text><text x="465" y="355">decision log</text><text x="465" y="385">judgment rules</text>
+    <text x="635" y="325">failure records</text><text x="635" y="355">glossary</text><text x="635" y="385">workflow maps</text>
+  </g>
+  <g fill="#F5F5F5" stroke="#AAB7C4" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="middle">
+    <rect x="80" y="150" width="190" height="65" rx="10"/><text x="175" y="190">AI Account A</text>
+    <rect x="930" y="150" width="190" height="65" rx="10"/><text x="1025" y="190">AI Account B</text>
+    <rect x="80" y="455" width="190" height="65" rx="10"/><text x="175" y="495">Local Model</text>
+    <rect x="930" y="455" width="190" height="65" rx="10"/><text x="1025" y="495">Organization / Team</text>
+    <rect x="505" y="555" width="190" height="65" rx="10"/><text x="600" y="595">Future Self</text>
+  </g>
+  <g stroke="#777777" stroke-width="2.5" marker-end="url(#arrow)">
+    <line x1="410" y1="245" x2="272" y2="190"/><line x1="790" y1="245" x2="928" y2="190"/>
+    <line x1="410" y1="425" x2="272" y2="485"/><line x1="790" y1="425" x2="928" y2="485"/>
+    <line x1="600" y1="470" x2="600" y2="553"/>
+  </g>
+  <text x="600" y="675" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#222222">Portability is not mere export. It is structured re-entry into reasoning.</text>
+</svg>

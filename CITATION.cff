@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use or cite this whitepaper, please cite it as below."
+title: "Cognitive Assets: The Emergence of Persistent Human-AI Cognition"
+authors:
+  - family-names: "Wang"
+    given-names: "Xiaoqing"
+year: 2026
+version: "1.0"
+date-released: "2026-05"
+type: report
+license: "CC-BY-NC-ND-4.0"
+abstract: "A conceptual whitepaper on persistent human-AI cognition, judgment continuity, portable cognition, and cognitive asset infrastructure."

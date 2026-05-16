@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#ffffff"/>
+  <text x="600" y="60" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#222222">The Cognitive Asset Stack</text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="160" y="560" width="650" height="65" rx="8" fill="#F5F5F5" stroke="#AAB7C4"/><text x="190" y="600" font-size="22" font-weight="700" fill="#222222">Context Layer</text><text x="420" y="600" font-size="20" fill="#444444">goals, constraints, situation</text>
+    <rect x="160" y="480" width="650" height="65" rx="8" fill="#EAF2FA" stroke="#AAB7C4"/><text x="190" y="520" font-size="22" font-weight="700" fill="#222222">Memory Layer</text><text x="420" y="520" font-size="20" fill="#444444">summaries, history, decisions</text>
+    <rect x="160" y="400" width="650" height="65" rx="8" fill="#F5F5F5" stroke="#AAB7C4"/><text x="190" y="440" font-size="22" font-weight="700" fill="#222222">Judgment Layer</text><text x="420" y="440" font-size="20" fill="#444444">rules, standards, boundaries</text>
+    <rect x="160" y="320" width="650" height="65" rx="8" fill="#EAF2FA" stroke="#AAB7C4"/><text x="190" y="360" font-size="22" font-weight="700" fill="#222222">Workflow Layer</text><text x="420" y="360" font-size="20" fill="#444444">repeatable processes</text>
+    <rect x="160" y="240" width="650" height="65" rx="8" fill="#F5F5F5" stroke="#AAB7C4"/><text x="190" y="280" font-size="22" font-weight="700" fill="#222222">Failure Layer</text><text x="420" y="280" font-size="20" fill="#444444">rejected paths and lessons</text>
+    <rect x="160" y="160" width="650" height="65" rx="8" fill="#EAF2FA" stroke="#AAB7C4"/><text x="190" y="200" font-size="22" font-weight="700" fill="#222222">Pattern Layer</text><text x="420" y="200" font-size="20" fill="#444444">reusable abstractions</text>
+  </g>
+  <line x1="875" y1="160" x2="875" y2="625" stroke="#2F5D8C" stroke-width="4"/>
+  <text x="925" y="340" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#2F5D8C">Stack integrity</text>
+  <text x="925" y="378" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#333333">depends on</text>
+  <text x="925" y="414" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#333333">all layers.</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#ffffff"/>
+  <text x="600" y="60" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#222222">Cognitive Property Map</text>
+  <text x="600" y="100" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#333333">Proposed conceptual category, not an established legal classification.</text>
+  <rect x="120" y="155" width="390" height="380" rx="12" fill="#F5F5F5" stroke="#B8B8B8"/>
+  <rect x="690" y="155" width="390" height="380" rx="12" fill="#EAF2FA" stroke="#B8B8B8"/>
+  <text x="315" y="210" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#222222">Traditional Digital Assets</text>
+  <text x="885" y="210" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#222222">Cognitive Property</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#333333">
+    <text x="250" y="270">files</text><text x="250" y="325">media</text><text x="250" y="380">code</text><text x="250" y="435">databases</text><text x="250" y="490">IP</text>
+    <text x="800" y="270">judgment systems</text><text x="800" y="325">reasoning continuity</text><text x="800" y="380">workflow memory</text><text x="800" y="435">failure memory</text><text x="800" y="490">context packages</text>
+  </g>
+  <line x1="555" y1="330" x2="645" y2="330" stroke="#2F5D8C" stroke-width="4"/>
+  <polygon points="645,330 620,316 620,344" fill="#2F5D8C"/>
+  <text x="600" y="630" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#222222">Cognitive Property names reusable structures of human-AI cognition.</text>
+</svg>
