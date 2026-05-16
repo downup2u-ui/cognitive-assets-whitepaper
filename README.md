@@ -16,6 +16,11 @@ Version: **1.0 · May 2026**
 
 - [Cognitive Assets Whitepaper v1.0 PDF](./Cognitive_Assets_Whitepaper_v1.0.pdf)
 
+## DOI
+
+- Version 1.0 DOI: [10.5281/zenodo.20232547](https://doi.org/10.5281/zenodo.20232547)
+- All versions DOI: [10.5281/zenodo.20232546](https://doi.org/10.5281/zenodo.20232546)
+
 ## What This Whitepaper Is About
 
 This whitepaper introduces **Cognitive Assets** as persistent, reusable, and evolving structures of judgment, reasoning, context, workflow, and failure memory formed through long-term human-AI collaboration.

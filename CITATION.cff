@@ -7,6 +7,8 @@ authors:
 year: 2026
 version: "1.0"
 date-released: "2026-05"
+doi: "10.5281/zenodo.20232547"
+url: "https://doi.org/10.5281/zenodo.20232547"
 type: report
 license: "CC-BY-NC-ND-4.0"
 abstract: "A conceptual whitepaper on persistent human-AI cognition, judgment continuity, portable cognition, and cognitive asset infrastructure."
