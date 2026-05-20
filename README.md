@@ -21,6 +21,16 @@ Version: **1.0 · May 2026**
 - Version 1.0 DOI: [10.5281/zenodo.20232547](https://doi.org/10.5281/zenodo.20232547)
 - All versions DOI: [10.5281/zenodo.20232546](https://doi.org/10.5281/zenodo.20232546)
 
+## v1.1 Publication Layer
+
+v1.0 is the canonical whitepaper release.
+
+v1.1 adds publication and implementation materials, including a launch article, short essays, a Cognitive Asset Package specification, and a canonical MCAP-aligned template repo.
+
+- [Release notes v1.1](./RELEASE_NOTES_v1.1.md)
+- [Publications](./publications/)
+- [Release package v1.1](./releases/v1.1/)
+
 ## What This Whitepaper Is About
 
 This whitepaper introduces **Cognitive Assets** as persistent, reusable, and evolving structures of judgment, reasoning, context, workflow, and failure memory formed through long-term human-AI collaboration.
