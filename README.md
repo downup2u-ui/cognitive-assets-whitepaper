@@ -31,6 +31,15 @@ v1.1 adds publication and implementation materials, including a launch article, 
 - [Publications](./publications/)
 - [Release package v1.1](./releases/v1.1/)
 
+## CAP v1 Validation Note
+
+A related Cognitive Asset Package v1 validation phase explored whether structured cognitive asset packages can partially restore functional behavior across selected tasks and model contexts.
+
+This public repository does not include the full internal validation report or private experiment chain.
+
+- [CAP v1 Validation Note](./docs/cap-v1-validation-note.md)
+
+
 ## What This Whitepaper Is About
 
 This whitepaper introduces **Cognitive Assets** as persistent, reusable, and evolving structures of judgment, reasoning, context, workflow, and failure memory formed through long-term human-AI collaboration.
@@ -75,7 +84,9 @@ It focuses on:
 └── releases/
     └── v1.0/
         └── Cognitive_Assets_Whitepaper_v1.0.pdf
-Minimum Cognitive Asset Package
+```
+
+## Minimum Cognitive Asset Package
 
 A Markdown-first starter package is included in [Minimum Cognitive Asset Package templates](./mcap).
 
